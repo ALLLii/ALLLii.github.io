@@ -66,5 +66,7 @@
  position: new google.maps.LatLng(-6.402868, 106.833692),
  map: map,
  title: ‘Snazzy!’
- });
  }
+ );
+ }
+ 
