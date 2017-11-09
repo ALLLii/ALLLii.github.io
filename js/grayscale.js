@@ -40,3 +40,7 @@
   $(window).scroll(navbarCollapse);
 
 })(jQuery); // End of use strict
+
+<div id="map"></div>
+
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB7ljY79mIhJfaZsDcU3GfxDeCCYoFR4ZM&amp;sensor=false"></script>
